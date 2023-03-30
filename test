@@ -1,2 +1,2 @@
 #!/bin/bash
-pipenv run python ./create_outline.py --toc-page 2 --input_pdf test.pdf --output_pdf output.pdf
+pipenv run python ./create_outline.py --toc-page 2 --page-offset 4 --input-pdf test.pdf --output-pdf output.pdf
