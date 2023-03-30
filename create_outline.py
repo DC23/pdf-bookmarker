@@ -33,7 +33,7 @@ def parse_toc(page:int, offset:int, input_pdf:str):
 @click.option("--page-offset", type=click.INT, default=0, help="Offset between the displayed page number and the actual PDF page number")
 def run(toc_page:int, page_offset:int, input_pdf:str, output_pdf:str):
     """Parse a Basic Fantasy PDF file and automatically generate the PDF bookmarks
-Version: 0.0.2
+Version: 0.0.3
     """
     parse_toc(toc_page, page_offset, input_pdf)
 
