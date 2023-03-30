@@ -1,6 +1,6 @@
 # PDF Outline Generator
 
-Version: 0.0.1
+Version: 0.0.2
 
 I am creating this to help the [Basic Fantasy Project](https://www.basicfantasy.org/), though it might one day have general enough usefulness to be used on other files.
 

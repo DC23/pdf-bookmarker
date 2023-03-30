@@ -31,7 +31,7 @@ def parse_toc(page:int, input_pdf:str):
 @click.option("--output_pdf", help="The output PDF")
 def run(toc_page:int, input_pdf:str, output_pdf:str):
     """Parse a Basic Fantasy PDF file and automatically generate the PDF bookmarks
-Version: 0.0.1
+Version: 0.0.2
     """
     parse_toc(toc_page, input_pdf)
 
