@@ -1,5 +1,6 @@
 # PDF Outline Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![Version](https://img.shields.io/badge/Version-0.0.3-green.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
